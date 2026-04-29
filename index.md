@@ -16,8 +16,6 @@
 <br>
 [The University of Tokyo](https://www.u-tokyo.ac.jp){:target="_blank"}
 
-E-mail: r.sasaki (at) ctl.t.u-tokyo.ac.jp
-
 - [LinkedIn](https://www.linkedin.com/in/reon-sasaki-72571625b/){:target="_blank"}
 - [IEEE Xplore](https://ieeexplore.ieee.org/author/37089772795){:target="_blank"}
 - [ORCID](https://orcid.org/0009-0002-5317-9844){:target="_blank"}
@@ -32,8 +30,8 @@ E-mail: r.sasaki (at) ctl.t.u-tokyo.ac.jp
 
 ## Biography
 
-Reon Sasaki received the B.E. and M.S. degrees from The University of Tokyo, Japan, in 2021, 2023. Presently, he is pursuing a Ph.D. in the Department of Electrical Engineering and Information Systems, Graduate School of Engineering, The University of Tokyo. His research focuses on high-speed, high-precision control of linear motors.
-He is a student member of Institute of Electrical and Electronics Engineers, Institute of Electrical Engineers of Japan, and The Japan Society for Precision Engineering.
+Reon Sasaki received the B.E., M.S., and Ph.D. degrees from The University of Tokyo, Japan, in 2021, 2023, and 2026. Presently, he is pursuing a Ph.D. in the Department of Electrical Engineering and Information Systems, Graduate School of Engineering, The University of Tokyo. His research focuses on high-speed, high-precision control of linear motors.
+He is a student member of Institute of Electrical and Electronics Engineers, Institute of Electrical Engineers of Japan.
 
 ## Career
 
